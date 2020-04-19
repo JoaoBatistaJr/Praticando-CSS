@@ -50,6 +50,7 @@
     height: 50px;
     border-radius: 50% 50% 0 0;
     background-color: chocolate;
+    border: #000;
     position: absolute;
     bottom: 55px;
     right: 325px;
